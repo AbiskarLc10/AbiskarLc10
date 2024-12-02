@@ -1,4 +1,4 @@
-I am currently working as an intern in swift Technology<br>I am studying BSCCSIT
+I am currently working as an intern in SWIFT Technology<br>I am studying BSCCSIT
 
 
 ## 🌐 Socials:
@@ -19,5 +19,5 @@ I am currently working as an intern in swift Technology<br>I am studying BSCCSIT
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->adMe.md…]()
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A JavaScript developer spends more time debugging than actually writing code—because who needs sleep when you have console.log()?
 -->
