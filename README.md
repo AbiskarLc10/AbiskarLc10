@@ -1,4 +1,4 @@
-I am currently working as an intern in SWIFT Technology<br>I am studying BSCCSIT
+Computer Science student <br> Working as an intern in SWIFT Technology<br>
 
 
 ## 🌐 Socials:
