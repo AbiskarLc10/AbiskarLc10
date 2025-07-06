@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working as an Intern at SWIFT Technology<br>
+Working as an Backend Developer at SWIFT Technology<br>
 
 
 ## 🌐 Socials:
